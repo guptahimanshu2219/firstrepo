@@ -1,0 +1,7 @@
+class firstjava
+{
+  public static void main(Strign args[])
+  {
+    System.out.println("hello from java");
+  } 
+}

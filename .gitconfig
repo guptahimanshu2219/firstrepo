@@ -1,0 +1,9 @@
+[user]
+	name = guptahimanshu2219
+	email = gupta.himanshu2219@gmail.com
+[branch]
+	autosetuprebase = always
+[color]
+	ui = true
+	status = auto
+	branch = auto
